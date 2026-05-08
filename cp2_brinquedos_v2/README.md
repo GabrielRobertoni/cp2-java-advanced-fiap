@@ -32,7 +32,7 @@ O sistema expõe uma API REST que permite realizar todas as operações de um CR
 
 ## 🚀 Testes de Endpoints (CRUD)
 
-Abaixo estão as evidências dos testes realizados via Postman no `localhost:8080`.
+Abaixo estão as evidências dos testes realizados via Postman no `localhost:8081`.
 
 ### 1. Create (Cadastrar Brinquedo)
 **Método:** `POST` | **URL:** `/brinquedos`
