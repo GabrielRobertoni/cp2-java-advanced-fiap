@@ -1,1 +1,0 @@
-Esta imagem representaria o print do Spring Initializr com as dependências: Spring Web, Spring Data JPA e Oracle Driver.
