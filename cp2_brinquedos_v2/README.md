@@ -51,7 +51,7 @@ Abaixo estão as evidências dos testes realizados via Postman no `localhost:808
 ### 2. Read (Consultar Brinquedos)
 **Método:** `GET` | **URL:** `/brinquedos`
 - **Descrição:** Recuperação de todos os registros armazenados na tabela `TDS_TB_BRINQUEDOS`.
-![Print do GET no Postman] ![img_1.png](img_1.png)
+![Print do GET no Postman] ![img_1.png] (img_1.png)
 
 ### 3. Update (Atualizar Brinquedo)
 **Método:** `PUT` | **URL:** `/brinquedos/{id}`
