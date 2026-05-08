@@ -24,7 +24,7 @@ O sistema expõe uma API REST que permite realizar todas as operações de um CR
 - **Dependências Principais:** Spring Web, Spring Data JPA, Oracle Driver (OJDBC11).
 
 ### Configuração do Spring Initializr
-![Print da configuração do Spring Initializr](<img width="1363" height="604" alt="spring_initialzr" src="https://github.com/user-attachments/assets/3a27dfcc-c32f-4ff1-a782-e1d803efcce2" />
+![Print da configuração do Spring Initializr](<img width="1366" height="602" alt="image" src="https://github.com/user-attachments/assets/83dfe12e-4ac8-45c3-abdd-15cf6a41ce83" />
 )
 *Legenda: Configuração inicial do projeto com as dependências solicitadas.*
 
