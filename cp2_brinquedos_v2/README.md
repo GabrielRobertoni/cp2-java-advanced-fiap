@@ -62,7 +62,6 @@ Abaixo estão as evidências dos testes realizados via Postman no `localhost:808
 **Método:** `DELETE` | **URL:** `/brinquedos/{id}`
 - **Descrição:** Exclusão definitiva de um registro do banco de dados pelo ID informado.
 ![Print do DELETE no Postman] ![img_3.png](img_3.png)
-
 ---
 
 ## 📂 Estrutura de Arquivos Importantes
