@@ -1,0 +1,9 @@
+CHECKPOINT 2 - JAVA ADVANCED
+
+INTEGRANTES DO GRUPO:
+- Nome: Gabriel Robertoni Padilha - RM: 566293
+- Nome: Bruno Ferreira - RM: 563489
+- Nome: Leonardo Aragaki Rodrigues - RM: 562944
+
+LINK GITHUB:
+https://github.com/GabrielRobertoni/cp2-java-advanced-fiap.git
