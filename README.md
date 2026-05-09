@@ -46,7 +46,8 @@ Abaixo estão as evidências dos testes realizados via Postman no `localhost:808
   "preco": 150.00
 }
 ```
-![Print do POST no Postman] ![img.png](img.png)
+![Print do POST no Postman] <img width="1365" height="673" alt="image" src="https://github.com/user-attachments/assets/b2e6e2bc-ea92-42db-a2b4-5881a7c43971" />
+
 
 ### 2. Read (Consultar Brinquedos)
 **Método:** `GET` | **URL:** `/brinquedos`
