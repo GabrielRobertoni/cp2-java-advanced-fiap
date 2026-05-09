@@ -39,12 +39,13 @@ Abaixo estão as evidências dos testes realizados via Postman no `localhost:808
 - **JSON de Teste:**
 ```json
 {
-  "nome": "Carrinho de Controle Remoto",
-  "tipo": "Veículo",
-  "classificacao": "8+",
-  "tamanho": "Médio",
-  "preco": 150.00
+  "nome": "Boneco Homem Aranha",
+  "tipo": "Boneco",
+  "classificacao": "5+",
+  "tamanho": "Pequeno",
+  "preco": 89.90
 }
+
 ```
 ![Print do POST no Postman] ![img.png](img.png)
 
