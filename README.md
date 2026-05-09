@@ -46,23 +46,25 @@ Abaixo estão as evidências dos testes realizados via Postman no `localhost:808
   "preco": 150.00
 }
 ```
-![Print do POST no Postman] <img width="1365" height="673" alt="image" src="https://github.com/user-attachments/assets/b2e6e2bc-ea92-42db-a2b4-5881a7c43971" />
+![Print do POST no Postman] <img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/394d21b3-c2ef-4ba8-bdda-6198b4b79077" />
+
+
 
 
 ### 2. Read (Consultar Brinquedos)
 **Método:** `GET` | **URL:** `/brinquedos`
 - **Descrição:** Recuperação de todos os registros armazenados na tabela `TDS_TB_BRINQUEDOS`.
-![Print do GET no Postman] ![img_1.png](img_1.png)
+![Print do GET no Postman] <img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/4774e3a7-d497-4dae-81ef-2459248c337a" />
 
 ### 3. Update (Atualizar Brinquedo)
 **Método:** `PUT` | **URL:** `/brinquedos/{id}`
 - **Descrição:** Atualização dos dados de um brinquedo existente através do seu ID.
-![Print do PUT no Postman] ![img_2.png](img_2.png)
+![Print do PUT no Postman] <img width="1366" height="671" alt="image" src="https://github.com/user-attachments/assets/683eeb66-f3ae-4cf4-bb50-54dedf75fcca" />
 
-### 4. Delete (Remover Brinquedo)
+### 4. Delete (Deletar Brinquedo)
 **Método:** `DELETE` | **URL:** `/brinquedos/{id}`
 - **Descrição:** Exclusão definitiva de um registro do banco de dados pelo ID informado.
-![Print do DELETE no Postman] ![img_3.png](img_3.png)
+![Print do DELETE no Postman] <img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/83858dc6-4456-4c20-bdf0-d2d3032dd0b4" />
 
 ---
 
